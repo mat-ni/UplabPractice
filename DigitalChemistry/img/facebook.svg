@@ -1,0 +1,10 @@
+<svg width="9" height="18" viewBox="0 0 9 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="facebook">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="9" height="18">
+<path id="Clip 2" fill-rule="evenodd" clip-rule="evenodd" d="M0.000488281 0.000244141H8.20599V17.0082H0.000488281V0.000244141Z" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path id="Fill 1" fill-rule="evenodd" clip-rule="evenodd" d="M1.75849 17.0082V8.16924H0.000488281V5.62424H1.75849V3.91524C1.75849 3.16224 1.77749 2.00024 2.32449 1.28024C2.90149 0.518244 3.69249 0.000244141 5.05449 0.000244141C7.27249 0.000244141 8.20649 0.316244 8.20649 0.316244L7.76649 2.92124C7.76649 2.92124 7.03349 2.70924 6.35049 2.70924C5.66649 2.70924 5.05449 2.95424 5.05449 3.63824V5.62424H7.85849L7.66249 8.16924H5.05449V17.0082H1.75849Z" fill="white"/>
+</g>
+</g>
+</svg>
